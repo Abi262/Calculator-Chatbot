@@ -1,16 +1,16 @@
 # Calculator-Chatbot
 Business On Bot - TASK
 
-This Chatbot performs four bsic mathematical operations such as 
+This Chatbot performs four basic mathematical operations such as 
 <br>
-Addition
+->Addition
 <br>
-Subtraction
+->Subtraction
 <br>
-Multiplication
+->Multiplication
 <br>
-Division
-
+->Division
+<br> by getting input and opearation to perform from the user.
 
 # Output
 ![image](https://user-images.githubusercontent.com/114276347/221779238-23229184-b2b1-4f39-ae70-8b390d0e968b.png)
